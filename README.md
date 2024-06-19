@@ -14,6 +14,14 @@ source .venv/bin/activate
 .venv\bin\Activate.ps1
 ```
 
+## Installing dependencies
+
+After activating the virtual environment:
+
+```shell
+pip install -r requirements.txt
+```
+
 ## Windows Troubleshooting
 
 Note On Microsoft Windows, it may be required to enable the Activate.ps1 script by setting the execution policy for the user.
