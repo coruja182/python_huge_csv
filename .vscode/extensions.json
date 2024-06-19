@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "donjayamanne.python-environment-manager",
+        "davidanson.vscode-markdownlint",
+        "ms-python.python",
+        "ms-python.debugpy"
+    ]
+}
